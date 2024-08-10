@@ -10,7 +10,7 @@ Welcome to the Terminal Theme Web Page project! This web page emulates a termina
 
 ## Screenshots
 
-![Terminal Theme Screenshot](screenshot.png)
+![Terminal Theme Screenshot](./public/assets/Screenshot.png)
 
 ## Technologies Used
 
@@ -23,13 +23,13 @@ Welcome to the Terminal Theme Web Page project! This web page emulates a termina
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/terminal-theme-webpage.git
+   git clone https://github.com/aditya06121/src-website.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd terminal-theme-webpage
+   cd src-website
    ```
 
 3. **Open `index.html`**
@@ -40,7 +40,7 @@ Welcome to the Terminal Theme Web Page project! This web page emulates a termina
 
 1. **Running the Web Page**
 
-   Simply open `index.html` in your favorite web browser. You should see a terminal-like interface.
+   Simply open `index.html` in your favorite web browser. You should see the welcome screen.
 
 2. **Using Commands**
 
@@ -57,11 +57,11 @@ Welcome to the Terminal Theme Web Page project! This web page emulates a termina
 ## File Structure
 
 ```
-terminal-theme-webpage/
-│
-├── index.html       # Main HTML file
-├── styles.css       # CSS file for styling
-├── script.js        # JavaScript file for terminal functionality
+src-website
+└──public
+    ├── index.html   # Main HTML file
+    ├── styles.css   # CSS file for styling
+    └── script.js    # JavaScript file for terminal functionality
 └── README.md        # This file
 ```
 
@@ -75,8 +75,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
+For any questions or inquiries, please contact [your.email@example.com](mailto:adityaraj7320@gmail.com).
